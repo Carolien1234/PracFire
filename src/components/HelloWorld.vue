@@ -1,5 +1,8 @@
 <template>
   <div class="hello">
+    <div style="font-size: 40px">
+      ONS SAL MORE VERDER WERK
+    </div>
     <h1>{{ msg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
