@@ -3,7 +3,6 @@
     padding: 20px 10px;
 }
 
-
 /* Style the header links */
 .header a {
     float: left;
@@ -15,7 +14,10 @@
     line-height: 25px;
     border-radius: 4px;
 }
-
+body
+{
+    background-color: antiquewhite;
+}
 
 /* Change the background color on mouse-over */
 
